@@ -53,3 +53,7 @@ E:\Game_char\Game_char\obj\Debug\Game_char.vbprojResolveAssemblyReference.cache
 E:\Game_char\Game_char\obj\Debug\Game_char.Form1.resources
 E:\Game_char\Game_char\obj\Debug\Game_char.Resources.resources
 E:\Game_char\Game_char\obj\Debug\Game_char.vbproj.GenerateResource.Cache
+C:\Users\Balami\Desktop\Game_char\Game_char\bin\Debug\Game_char.exe.config
+C:\Users\Balami\Desktop\Game_char\Game_char\obj\Debug\Game_char.exe
+C:\Users\Balami\Desktop\Game_char\Game_char\obj\Debug\Game_char.xml
+C:\Users\Balami\Desktop\Game_char\Game_char\obj\Debug\Game_char.pdb
