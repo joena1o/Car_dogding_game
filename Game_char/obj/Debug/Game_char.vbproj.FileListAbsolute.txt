@@ -1,0 +1,55 @@
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\bin\Debug\Game_char.exe.config
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\bin\Debug\Game_char.exe
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\bin\Debug\Game_char.pdb
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\bin\Debug\Game_char.xml
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\obj\Debug\Game_char.Form1.resources
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\obj\Debug\Game_char.Resources.resources
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\obj\Debug\Game_char.vbproj.GenerateResource.Cache
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\obj\Debug\Game_char.exe
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\obj\Debug\Game_char.xml
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\obj\Debug\Game_char.pdb
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\bin\Debug\Game_char.exe.manifest
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\bin\Debug\Game_char.application
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\obj\Debug\Game_char.exe.manifest
+C:\Users\kendat\Documents\Visual Studio 2013\Projects\Game_char\Game_char\obj\Debug\Game_char.application
+F:\Game_char\Game_char\bin\Debug\Game_char.exe.config
+F:\Game_char\Game_char\obj\Debug\Game_char.exe
+F:\Game_char\Game_char\obj\Debug\Game_char.xml
+F:\Game_char\Game_char\obj\Debug\Game_char.pdb
+F:\Game_char\Game_char\bin\Debug\Game_char.exe.manifest
+F:\Game_char\Game_char\bin\Debug\Game_char.application
+F:\Game_char\Game_char\bin\Debug\Game_char.exe
+F:\Game_char\Game_char\bin\Debug\Game_char.pdb
+F:\Game_char\Game_char\bin\Debug\Game_char.xml
+F:\Game_char\Game_char\obj\Debug\Game_char.Form1.resources
+F:\Game_char\Game_char\obj\Debug\Game_char.Resources.resources
+F:\Game_char\Game_char\obj\Debug\Game_char.vbproj.GenerateResource.Cache
+F:\Game_char\Game_char\obj\Debug\Game_char.exe.manifest
+F:\Game_char\Game_char\obj\Debug\Game_char.application
+C:\Users\kendat\Desktop\Game_char\Game_char\bin\Debug\Game_char.exe.config
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.exe
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.xml
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.pdb
+C:\Users\kendat\Desktop\Game_char\Game_char\bin\Debug\Game_char.exe.manifest
+C:\Users\kendat\Desktop\Game_char\Game_char\bin\Debug\Game_char.application
+C:\Users\kendat\Desktop\Game_char\Game_char\bin\Debug\Game_char.exe
+C:\Users\kendat\Desktop\Game_char\Game_char\bin\Debug\Game_char.pdb
+C:\Users\kendat\Desktop\Game_char\Game_char\bin\Debug\Game_char.xml
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.Form1.resources
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.Resources.resources
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.vbproj.GenerateResource.Cache
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.exe.manifest
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.application
+C:\Users\kendat\Desktop\Game_char\Game_char\obj\Debug\Game_char.vbprojResolveAssemblyReference.cache
+C:\Users\HYEFUR JONATHAN\Desktop\HYEFUR BCKUP\DESKTOP\Game_char\Game_char\bin\Debug\Game_char.exe.config
+C:\Users\HYEFUR JONATHAN\Desktop\HYEFUR BCKUP\DESKTOP\Game_char\Game_char\obj\Debug\Game_char.exe
+C:\Users\HYEFUR JONATHAN\Desktop\HYEFUR BCKUP\DESKTOP\Game_char\Game_char\obj\Debug\Game_char.xml
+C:\Users\HYEFUR JONATHAN\Desktop\HYEFUR BCKUP\DESKTOP\Game_char\Game_char\obj\Debug\Game_char.pdb
+E:\Game_char\Game_char\bin\Debug\Game_char.exe.config
+E:\Game_char\Game_char\obj\Debug\Game_char.exe
+E:\Game_char\Game_char\obj\Debug\Game_char.xml
+E:\Game_char\Game_char\obj\Debug\Game_char.pdb
+E:\Game_char\Game_char\obj\Debug\Game_char.vbprojResolveAssemblyReference.cache
+E:\Game_char\Game_char\obj\Debug\Game_char.Form1.resources
+E:\Game_char\Game_char\obj\Debug\Game_char.Resources.resources
+E:\Game_char\Game_char\obj\Debug\Game_char.vbproj.GenerateResource.Cache
